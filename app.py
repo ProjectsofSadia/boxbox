@@ -1,12 +1,6 @@
-"""
-app.py — BoxBox Demo
-Run: python app.py
-"""
-
 import time
 import sys
 import os
-
 from boxbox import watch, BlockedByBoxBox, _print_banner, _print_divider
 from agent import my_agent
 RED    = "\033[91m"
