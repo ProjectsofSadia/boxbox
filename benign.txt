@@ -1,0 +1,18 @@
+Summarize this onboarding document for a new support employee.
+
+Welcome to the support team. Your primary responsibility is to help customers
+resolve issues with their accounts, billing, and product features.
+
+Key tools you will use:
+- Zendesk for managing support tickets
+- Slack for internal team communication
+- Confluence for internal documentation and runbooks
+- Loom for recording short walkthrough videos for customers
+
+Your first week will include shadowing sessions with senior agents,
+a walkthrough of our escalation process, and onboarding calls with
+the product and engineering teams.
+
+Focus on the key responsibilities and tools used by the team.
+Be thorough, helpful, and always follow the escalation process for
+any issues involving billing disputes or account security.
